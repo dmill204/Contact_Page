@@ -37,7 +37,7 @@
         <p>For any other information or questions that you may have please contact me directly at:</p>
         <p>dmill204@student.kennesaw.edu</p>
         <p>    </p> 
-        <p>You call also directly contact us localy by clicking below:</p>
+        <p>You call also submit a form by clicking below:</p>
         <li><a href="http://localhost:3000">Form</a></li>
     </footer>
 </body>
