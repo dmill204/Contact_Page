@@ -4,6 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+    <button id="themeToggle">Toggle Theme</button>
+
+  <script>
+    const body = document.body;
+    const themeToggle = document.getElementById('themeToggle');
+
+    themeToggle.addEventListener('click', () => {
+      body.classList.toggle('dark-mode');
+    });
+  </script>
 <body>
     <header>
         <h1>Contact Us</h1>
